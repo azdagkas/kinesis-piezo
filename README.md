@@ -13,7 +13,7 @@ is presented here to act as a guide to people that are looking for something sim
  that combine many more instruments which is usually the case in big experiments
 that require automation.
 
-![]()
+![](https://user-images.githubusercontent.com/49478566/59421776-12819000-8dc7-11e9-931c-7747ca39304a.png)
 
 The red dashed square indicates the GUI carrying the piezo stage functionality that is 
 embedded in a bigger GUI carrying functionality for cameras, a laser and the processing

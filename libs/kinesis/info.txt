@@ -1,0 +1,15 @@
+Put the following Thorlabs kinesis dlls in this directory:
+
+Thorlabs.MotionControl.DeviceManager.dll
+Thorlabs.MotionControl.DeviceManagerCLI.dll
+Thorlabs.MotionControl.GenericPiezoCLI.dll
+Thorlabs.MotionControl.TCube.Piezo.dll
+Thorlabs.MotionControl.TCube.PiezoCLI.dll
+Thorlabs.MotionControl.TCube.StrainGauge.dll
+Thorlabs.MotionControl.TCube.StrainGaugeCLI.dll
+Thorlabs.MotionControl.Tools.Logging.dll
+
+These are for the piezo controller and strain reader. If you plan
+to use more stages you have to add the corresponding libraries.
+You can find the dependencies from the Thorlabs API manual installed as .NET API Help.
+You can find the dlls in the Thorlabs kinesis installation folder.

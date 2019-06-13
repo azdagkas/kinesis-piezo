@@ -1,0 +1,13 @@
+Put the button images at this directory with the following names:
+arrow2.png
+arrow.png
+stop.png
+home1.jpg
+back.png
+open_loop.png
+closed_loop.png
+
+I have not created all of the above images and I do not have the right to redistribute the
+ones that are not mine. You can find some of them at pixabay.com free for use.
+
+The GUI works even without the images. It just uses text instead of them for the buttons.

@@ -1,0 +1,8 @@
+*.txt
+!info.txt
+*.pyc
+*.png
+*.jpg
+*.db
+*.dll
+__pycache__/

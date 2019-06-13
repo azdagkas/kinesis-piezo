@@ -24,7 +24,7 @@ of the acquired data.
 - pythonnet
 - Pillow, only if you plan to load images to the GUI
 
-2. Download the source code from the [release]() tab 
+2. Download the source code from the [release](https://github.com/azdagkas/kinesis-piezo/releases) tab 
 or clone the repository.
 
 3. (Optional) Download images for the buttons of the GUI.
